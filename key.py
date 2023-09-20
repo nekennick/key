@@ -9,12 +9,12 @@ def on_click(x, y, button, pressed):
         compare_text(selected_text)
 
 def compare_text(selected_text):
-    with open('text.txt', 'r', encoding='utf-8') as file:  # Chắc chắn sử dụng mã hóa utf-8
-        data = file.read()
-        if selected_text in data:
-            result_label.config(text='Kết quả: yes')
-        else:
-            result_label.config(text='Kết quả: no')
+    with open('text.txt', 'r', encoding='utf-8') as file:
+        for line in file:
+            if selected_text in line:
+                result_label.config(text='Kết quả: yes')
+                return
+        result_label.config(text='Kết quả: no')
 
 app = tk.Tk()
 app.title('Ứng dụng so sánh văn bản được chọn')
