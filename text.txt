@@ -1,15 +1,16 @@
-Câu 1. Trong công nghệ gen, ADN tái tổ hợp là phân tử lai được tạo ra bằng cách nối đoạn ADN|1
-Câu 2. Enzim restrictaza dùng trong giai đoạn nào của kĩ thuật di truyền?|2
-Câu 3. Trong tạo giống nhờ công nghệ gen, người ta thường dùng thể truyền là|3
-Câu 4. Trình tự nào sau đây là đúng trong kĩ thuật chuyển gen|4
-Câu 5. Để có thể xác định dòng tế bào đã nhận được ADN tái tổ hợp, các nhà khoa học đã|2
-Câu 6. Trong kĩ thuật chuyển gen, để đưa ADN tái tổ hợp vào tế bào nhận người ta dùng|1
-Câu 7. Phát biểu nào sau đây là không đúng khi nói về phương pháp tạo giống nhờ công nghệ gen?|2
-Câu 8. Trong kĩ thuật di truyền, đối tượng thường được sử dụng làm "nhà máy" sản xuất các sản phẩm sinh học  | 2
-Câu 9. Thành tựu nào sau đây không phải là do công nghệ gen? | 2
-Câu 10. Trình tự đúng các giai đoạn trong quá trình tạo động vật chuyển gen là | 3
-Câu 11. Tế bào E.coli được sử dụng phổ biến trong nghiên cứu khoa học, vì | 2
-Câu 12. Sinh vật biến đổi gen không được tạo ra bằng phương pháp nào sau đây? | 4
-Câu 13. Cho các phương pháp sau: | 3
-Câu 14. Người ta dùng kĩ thuật chuyển gen để chuyển gen kháng kháng sinh tetraxiclin vào E. coli không mang  | 2
-Câu 15. Trong các nhận xét sau có bao nhiêu nhận xét không đúng? | 2
+Trong công nghệ gen, ADN tái tổ hợp là phân tử lai được tạo ra bằng cách nối đoạn ADN của|3
+Enzim restrictaza dùng trong giai đoạn nào của kĩ thuật di truyền?|4
+Trong tạo giống nhờ công nghệ gen, người ta thường dùng thể truyền là|3
+Trình tự nào sau đây là đúng trong kĩ thuật chuyển gen|4
+Để có thể xác định dòng tế bào đã nhận được ADN tái tổ hợp, các nhà khoa học đã|2
+Trong kĩ thuật chuyển gen, để đưa ADN tái tổ hợp vào tế bào nhận người ta dùng|1
+Phát biểu nào sau đây là không đúng khi nói về phương pháp tạo giống nhờ công nghệ gen?|2
+Trong kĩ thuật di truyền, đối tượng thường được sử dụng làm "nhà máy" sản xuất các sản phẩm sinh học|2
+Thành tựu nào sau đây không phải là do công nghệ gen?|2
+Trình tự đúng các giai đoạn trong quá trình tạo động vật chuyển gen là|3
+Tế bào E.coli được sử dụng phổ biến trong nghiên cứu khoa học, vì|2
+Sinh vật biến đổi gen không được tạo ra bằng phương pháp nào sau đây?|4
+Cho các phương pháp sau:|3
+Người ta dùng kĩ thuật chuyển gen để chuyển gen kháng kháng sinh tetraxiclin vào E. coli không mang|2
+Trong các nhận xét sau có bao nhiêu nhận xét không đúng?|2
+Người ta dùng kĩ thuật chuyển gen để chuyển gen kháng kháng sinh tetraxiclin vào E. coli không mang gen kháng kháng sinh. Để xác định đúng dòng vi khuẩn mang ADN tái tổ hợp mong muốn, người ta đem nuôi các dòng vi khuẩn này trong một môi trường có nồng độ tetraxiclin thích hợp. Dòng vi khuẩn mang ADN tái tổ hợp mong muốn sẽ|3

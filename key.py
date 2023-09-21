@@ -9,12 +9,16 @@ def on_click(x, y, button, pressed):
         compare_text(selected_text)
 
 def compare_text(selected_text):
+    found = False
     with open('text.txt', 'r', encoding='utf-8') as file:
         for line in file:
-            if selected_text in line:
-                result_label.config(text='Kết quả: yes')
-                return
-        result_label.config(text='Kết quả: no')
+            parts = line.split('|')
+            if len(parts) > 1 and selected_text.strip() == parts[0].strip():
+                result_label.config(text=f'Kết quả: {parts[1].strip()}')
+                found = True
+                break
+    if not found:
+        result_label.config(text='Kết quả: Không tìm thấy')
 
 app = tk.Tk()
 app.title('Ứng dụng so sánh văn bản được chọn')
